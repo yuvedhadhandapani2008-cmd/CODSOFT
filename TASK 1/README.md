@@ -30,7 +30,8 @@ Bot: Hello! Nice to meet you.
 
 # Execution Video
 Watch the execution of the chatbot here:
-Click here to view execution video : https://drive.google.com/file/d/1DbswlbNEdTIWsGITbLYnTfVElUQJzQmw/view?usp=drive_link
+Click here to view execution video : https://drive.google.com/file/d/1DbswlbNEdTIWsGITbLYnTfVElUQJzQmw/view?usp=sharing
 
 ## Author
+
 Yuvedha Dhandapani
